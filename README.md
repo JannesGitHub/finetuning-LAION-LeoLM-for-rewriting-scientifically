@@ -38,7 +38,7 @@ These videos were very helpful to me in understanding the training process:
 
 4. The new formulation will be automatically printed after running the cell and can be stored in a string variable.
 
-## Limitationen:
+## Limitations:
 
 1. The dataset has far too few examples. Ideally, at least 10,000 examples would be necessary for a robust training process.
 2. I should have familiarized myself with metrics for determining the performance of the models before starting the training. In the end, I had ChatGPT generate five colloquial sentences for each topic (a total of 20) and had them reformulated by the three models and LeoLM. The V1 model performed the best, although it should be noted that the base model often had errors such as repetitions or other anomalies.
